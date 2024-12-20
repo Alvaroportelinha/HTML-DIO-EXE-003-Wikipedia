@@ -160,7 +160,7 @@ nav{
     margin-top: 30px;
     display:block;
     padding: 20px;
-    height: 1000px;
+    height: 99%;
     box-shadow: 1px 1px 9px 1px rgba(164, 162, 162, 0.381);
 }
 main{
@@ -182,6 +182,36 @@ picture{
     width: 350px;
     border-radius: 5px;
     padding: 2px;
+
+}
+.sexo{
+    display: flex;
+    width: 600px;
+    margin: 0 auto;
+padding: 3px;    
+}
+.betamacho{
+    width: 300px;
+}
+.betafemea{
+    width: 300px;
+}
+.macho{
+    margin: 5px;
+padding: 2px;
+justify-content: center;
+justify-items: center;
+border-radius: 3px;
+box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.651);
+}
+
+.femea{
+    padding: 2px;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 3px;
+    box-shadow: 0px 0px 4px 1px rgba(128, 128, 128, 0.651);
+    margin: 5px;
 
 }
 .texto{
