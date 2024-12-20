@@ -43,12 +43,81 @@ hr{
     align-items: center; 
  
 }
-
-.trilha1 {
-    display: flex; /* Flexbox para os links */
-    gap: 20px; /* Adiciona espaço entre os links */
+.table{
+    pad: 10px;
 }
+td{
+    border-radius: 3px;
+}
+.art{
+  border: solid 2px rgba(214, 214, 89, 0.546);
+    
+}
+.Arte{
+    background-color:rgba(255, 255, 0, 0.162);
+    padding: 0 5px;
+}
+.Ciênci{
+    border: solid 2px rgba(172, 255, 47, 0.55);
+}
+.Ciência{
+    background-color: rgba(172, 255, 47, 0.151);
+    padding: 0 5px;
+}
+.Biografia{
+    background-color: rgba(48, 216, 54, 0.096);
+    padding: 0 5px;
+}
+.Biografi{
+border: solid 2px rgba(8, 255, 8, 0.215);
+}
+.Filosofia{
+    background-color: rgba(35, 203, 195, 0.13);
+    padding: 0 5px;
+}
+.Filosofi{
+    border: solid 2px rgba(35, 203, 195, 0.272);
+}
+.Geografia{
+    background-color: rgba(135, 196, 250, 0.32);
+    padding: 0 5px;
 
+}
+.Geografi{
+    border: solid 2px rgba(135, 196, 250, 0.582);
+
+}
+.História{
+    background-color:  rgba(114, 127, 229, 0.226);
+    padding: 0 5px;
+}
+.Históri{
+    border: solid 2px  rgba(114, 127, 229, 0.354);
+}
+.Matemática{
+    background-color: rgba(145, 114, 229, 0.16);
+    padding: 0 5px;
+
+}
+.Matemátic{
+    border: solid 2px  rgba(145, 114, 229, 0.336);
+}
+.Sociedade{
+    background-color:rgba(204, 114, 229, 0.183);
+    padding: 0 5px;
+
+}
+.Sociedad{
+    border: solid 2px rgba(204, 114, 229, 0.299);
+}
+.Tecnologia{
+    background-color: rgba(229, 114, 168, 0.251);
+    padding: 0 5px;
+
+}
+.Tecnologi{
+    border: solid 2px rgba(229, 114, 168, 0.272);
+}
 ul { list-style: none; padding-left: 5px; }
 a { color:rgb(0, 0, 0); text-decoration: none;}
 .search{
