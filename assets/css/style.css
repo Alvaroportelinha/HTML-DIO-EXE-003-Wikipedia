@@ -37,6 +37,10 @@ h2{
 .extras{
     margin-top: 10px;
    gap: 10px;
+   padding: 10px;
+}
+.extras>a{
+    padding: 5px;
 }
 .top{
     margin: 0px 40px;
