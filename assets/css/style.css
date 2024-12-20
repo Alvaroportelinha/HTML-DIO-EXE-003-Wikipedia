@@ -38,9 +38,9 @@ hr{
     margin: 0px 40px;
 }
 .trilhas {
-    display: flex; /* Para ativar o flexbox */
-    justify-content: center; /* Centraliza o conteúdo horizontalmente */
-    align-items: center; /* Centraliza o conteúdo verticalmente */
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
  
 }
 
