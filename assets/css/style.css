@@ -160,7 +160,7 @@ nav{
     margin-top: 30px;
     display:block;
     padding: 20px;
-    height: 99%;
+    height: 97.5%;
     box-shadow: 1px 1px 9px 1px rgba(164, 162, 162, 0.381);
 }
 main{
@@ -202,15 +202,41 @@ padding: 2px;
 justify-content: center;
 justify-items: center;
 border-radius: 3px;
-box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.651);
+box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.58);
 }
+.acasalamento{
+    display: flex;
+    width: 600px;
+   
+        margin: 0 auto;
+    
+    }
+    .reprodução{
+        padding: 2px;
+        justify-content: center;
+        justify-items: center;
+        border-radius: 3px;
+        box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.58);
+        margin: 5px;
+}
+.reprodução>img{
+    width: 300px;
+}
+.Alevino{
+    padding: 2px;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 3px;
+    box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.58);
+    margin: 5px;
 
+}
 .femea{
     padding: 2px;
     justify-content: center;
     justify-items: center;
     border-radius: 3px;
-    box-shadow: 0px 0px 4px 1px rgba(128, 128, 128, 0.651);
+    box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.58);
     margin: 5px;
 
 }
@@ -222,4 +248,5 @@ box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.651);
     margin-top: 30px;
     margin-right: 25px;
     border-radius: 5px;
+    height: 98.8%;
 }
