@@ -252,11 +252,13 @@ box-shadow: 0px 0px 4px 1px rgba(186, 186, 186, 0.58);
 }
 table{
  padding: 5px;
-    
-    justify-content: center;
-    justify-items: center;
+    justify-content: left;
+    justify-items: left;
     margin: 0 auto;
     margin-top: 5px;
+}
+td{
+    padding: 2px;
 }
 th{
     background-color: hotpink;
