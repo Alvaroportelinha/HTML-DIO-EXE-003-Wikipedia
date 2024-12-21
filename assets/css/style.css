@@ -261,8 +261,28 @@ td{
     padding: 2px;
 }
 th{
-    background-color: hotpink;
-    padding: 5px;}
+    background-color: rgba(255, 105, 180, 0.596);
+    padding: 5px;
+gap: 10px;
+width: 200px;
+border-radius: 5px;
+}
 .imgtabela{
     width: 200px;
+}
+footer{
+    padding:30px;
+margin-left: 10px;
+display: block;
+background-color: lightgray;
+}
+.imgfooter{
+width: 150px;
+}
+.pe{
+    margin: 0 auto;
+}
+.links{
+    padding: 10px;
+    gap: 10px;
 }
